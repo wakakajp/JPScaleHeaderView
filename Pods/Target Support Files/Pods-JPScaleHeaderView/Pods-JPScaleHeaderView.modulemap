@@ -1,0 +1,6 @@
+framework module Pods_JPScaleHeaderView {
+  umbrella header "Pods-JPScaleHeaderView-umbrella.h"
+
+  export *
+  module * { export * }
+}
